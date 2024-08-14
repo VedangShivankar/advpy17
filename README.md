@@ -2,3 +2,6 @@
 testing using cmd prompt
 Thanks to @codebasics for helping me do these python codes
 
+Make sure to add these to a seperate folder name and name it unnittest_pytest
+type "cd [your file location]" in command prompt
+then type "python -m ptest"
